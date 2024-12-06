@@ -1,6 +1,8 @@
-- 👋 oi
-- Me chamo Gabriel, sou estudante de Engenharia da Computação!
-- Front End
+🖖 ## I'm (Gabriel Sá)!
+
+🖥️ ...Engenharia da Computação 
+
+🖼️ Front End
 
 ## Ferramentas e Tecnologias
 
