@@ -1,4 +1,4 @@
- ## I'm (Gabriel Sá)! 🖖
+ ## I'm Gabriel Sá! 🖖
 
 🖥️ ...Engenharia da Computação 
 
