@@ -18,7 +18,7 @@
 
 ## Contacts
 <div>
-<a href="https://gabriel-s4.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-5F0075?style=for-the-badge&logo=doc&link=https://gabriel-s4.github.io/My-Portfolio/" alt="Portfolio" /></a>
+<a href="https://gabriel-s4.github.io/My-Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-5F0075?style=for-the-badge&logo=doc&link=https://gabriel-s4.github.io/My-Portfolio/" alt="Portfolio" /></a>
 <a href="https://www.youtube.com/NONE" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/NONE" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/NONE" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
